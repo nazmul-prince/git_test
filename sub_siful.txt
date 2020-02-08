@@ -1,0 +1,5 @@
+
+ echo sub(10,5);
+function sub(int a, int b){
+ return a-b;
+}
