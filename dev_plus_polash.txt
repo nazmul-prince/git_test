@@ -2,5 +2,5 @@ function plus()
 {
 	$a =10;
 	$b =20;
-	echo $result = $a+$b;
+	echo $result = $a+$b+$c;
 }
