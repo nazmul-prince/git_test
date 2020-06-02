@@ -1,1 +1,2 @@
+This line will create conflicts.
 This will create conclicts.
